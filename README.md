@@ -9,4 +9,4 @@ Don't give me cancer.
 
 ### TODO
 
-* Set up Travis CI to trigger CRISPR on successful builds.
+* Set up Github Actions to trigger CRISPR on successful builds.
